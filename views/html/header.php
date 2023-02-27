@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="public/css/style_mobile.css" />
     <link rel="stylesheet" href="public/css/media-queries.css" />
-    <link rel="stylesheet" href="public/css/style_desktop.css" />
 
     <title>Header</title>
 </head>
