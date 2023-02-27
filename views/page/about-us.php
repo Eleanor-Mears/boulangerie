@@ -1,4 +1,4 @@
-        <div id="main-content">
+<div id="main-content">
             <!-- MAIN CONTENT-->
             <div class="main-about-section">
                 <h2 id="about-title">About Us</h2>
@@ -58,3 +58,5 @@
                 </div>
             </div> <!-- end of <div> main content-->
         </div> <!-- end of page container -->
+
+        <p class="hidden"><?= ($_SERVER['REQUEST_URI']) ?></p> 

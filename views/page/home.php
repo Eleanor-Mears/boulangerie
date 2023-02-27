@@ -1,4 +1,4 @@
-        <div id="main-content">
+<div id="main-content">
             <div class="slideshow-container">
                 <!-- sliding header -->
                 <div class="slideshow">
@@ -72,3 +72,5 @@
                 </div> <!-- end of div class="main-articles" -->
             </div> <!-- end of div class="main-info-section" -->
         </div> <!-- end of <div> main content-->
+
+        <p class="hidden"><?= ($_SERVER['REQUEST_URI']) ?></p> 

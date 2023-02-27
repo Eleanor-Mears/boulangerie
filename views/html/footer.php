@@ -75,6 +75,8 @@
                 <a href="https://www.instagram.com/?hl=fr" target="_blank"><img id="icon-insta" class="icon-sm" src="public/images/icons/icons8-instagram-60.png" alt="Instagram icon" /></a>
             </div>
 
+            <p class="hidden"><?= ($_SERVER['REQUEST_URI']) ?></p> 
+
         </footer>
     <script src="public/scripts/burger.js"></script>
     <script src="public/scripts/subscibeForm.js"></script>

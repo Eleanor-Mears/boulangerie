@@ -1,5 +1,5 @@
 
-        <div id="main-content">
+<div id="main-content">
             <div class="image-section">
                 <a href="#">
                     <span class="image-wrapper">
@@ -73,3 +73,5 @@
                 </article>
             </div>
         </div> <!-- end of <div> main content-->
+
+        <p class="hidden"><?= ($_SERVER['REQUEST_URI']) ?></p> 

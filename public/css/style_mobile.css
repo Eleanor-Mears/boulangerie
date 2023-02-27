@@ -74,6 +74,10 @@ body {
     margin: 0;
 }
 
+.hidden {
+    display: none;
+}
+
 p, address {
     font-family: 'Raleway', sans-serif; 
     font-size: 17px;
