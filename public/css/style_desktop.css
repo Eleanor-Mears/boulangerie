@@ -1,0 +1,22 @@
+/* Desktop menu */
+@media all and (min-width: 960px) {
+    .menu {
+        align-items: flex-start;     
+        flex-wrap: nowrap;
+        background: none;
+    }
+    #logo-container {
+        order: 0;
+    }
+
+    .menu-item {
+        order: 1;
+        position: relative;
+        display: block; 
+        width: auto;
+        padding-top: 36px;
+        padding-bottom: 36px;
+        line-height: 1;
+    }
+
+}
